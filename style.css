@@ -229,8 +229,8 @@ strong { font-weight: 700; color: #f0f4ff; }
 }
 /* ===== HERO PHOTO ===== */
 .hero-photo-frame {
-  width: 220px;
-  height: 220px;
+  width: 170px;
+  height: 170px;
   border-radius: 50%;
   overflow: hidden;
   background: var(--card);
