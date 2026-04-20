@@ -230,8 +230,8 @@ strong { font-weight: 700; color: #f0f4ff; }
 /* ===== HERO PHOTO ===== */
 .hero-photo-frame {
   position: relative;
-  width: 220px;
-  height: 220px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   overflow: hidden;
   background: var(--card);
@@ -248,7 +248,7 @@ strong { font-weight: 700; color: #f0f4ff; }
   background: url("belle.jpg") center center / cover no-repeat;
   filter: blur(14px);
   transform: scale(1.12);
-  opacity: 0.75;
+  opacity: 0.55;
 }
 
 .hero-photo {
