@@ -231,8 +231,8 @@ strong { font-weight: 700; color: #f0f4ff; }
 .hero-photo {
   width: 180px;
   height: 180px;
-  border-radius: 50%;
-  object-fit: none;
+  border-radius: 70%;
+  object-fit: cover;
   object-position: center 20%;
   border: 3px solid var(--accent);
   box-shadow: 0 0 0 6px rgba(240, 165, 32, 0.15),
