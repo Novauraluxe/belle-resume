@@ -246,7 +246,7 @@ strong { font-weight: 700; color: #f0f4ff; }
   display: block;
   object-fit: contain;
   object-position: center center;
-  padding: 6px;
+  padding: 3px;
 }
 
 /* ===== SECTION HEADERS ===== */
