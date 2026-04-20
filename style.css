@@ -229,8 +229,8 @@ strong { font-weight: 700; color: #f0f4ff; }
 }
 /* ===== HERO PHOTO ===== */
 .hero-photo-frame {
-  width: 1800px;
-  height: 1800px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   overflow: hidden;
   border: 3px solid var(--accent);
