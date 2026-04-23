@@ -1,0 +1,19 @@
+{
+  "name": "belle-resume",
+  "version": "1.0.0",
+  "description": "Belle Wong - Machine Operator Resume",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "resume",
+    "portfolio"
+  ],
+  "author": "Belle Wong",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
